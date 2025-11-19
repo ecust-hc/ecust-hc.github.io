@@ -1,21 +1,27 @@
-### **Software Engineer Intern**  
-**January 2025 – June 2025 | ByteDance**  
+### **AI算法工程师**  
+**2025年4月 – 目前 | 国金证券股份有限公司 | 人工智能实验室**  
 
-Worked on the development and optimization of large-scale recommendation systems, focusing on algorithm improvements and system efficiency enhancements. Contributed to real-time data processing pipelines and model optimization for personalized content delivery.
+负责国金证券的通用性AI能力建设与前沿探索工作，推动公司整体AI理念和价值观、技术战略与能力体系。
 
-#### Key Contributions:  
-- Developed and optimized recommendation algorithms to enhance user engagement and content relevance.  
-- Designed and implemented real-time data processing workflows to improve model inference efficiency.  
-- Conducted A/B testing and performance analysis to refine recommendation strategies based on user behavior data.  
+#### 主要贡献:  
+- 参与知识管理中台的规划与建设，积极探索其在多业务场景中的落地应用与价值转化（人力资源、风控、规划运营等）。
+- 参与AI前沿技术的探索，重点围绕大模型、数字人、数据治理、AI投研、智能文本解析等方向，系统研判其在证券行业的应用场景与落地可行性。 
+- 参与部门AI相关开发工作，包括智能体（Agent）构建、工具调用链设计与集成等。 
 
 ---
 
-### **软件工程师实习生**  
-**2025年1月 – 2025年6月 | 字节跳动**  
+### **算法开发**  
+**2024年7月 – 2025年4月 | 上海极氪蓝色新能源有限公司 | 数据平台&工具链**  
 
-负责大规模推荐系统的开发与优化，专注于算法改进和系统效率提升。参与实时数据处理管道的构建，并优化模型推理流程，以提升个性化内容推荐效果。
+聚焦视频生成与AI基础设施建设，主导世界模型、3DGS等前沿算法的数据处理、训练与仿真闭环开发，同时参与高性能训练平台及智能化运维体系构建，推动AI研发效能与技术落地双提升。
 
 #### 主要贡献:  
-- 研发并优化推荐算法，提高用户互动率和内容相关性。  
-- 设计并实现实时数据处理流程，提升模型推理的计算效率。  
-- 进行A/B测试与性能分析，基于用户行为数据优化推荐策略。
+##### 世界模型:  
+- 世界模型相关算法需求开发，参与自动驾驶所需数据clip的场景重构和生成。 
+- 参与3DGS模型的相关数据处理，模型训练和渲染等关键技术环节。开发调试工具重建数据处理全流程可视化。 
+- 开发探索世界模型使其达到业内前沿水平，实现端到端的闭环仿真。
+##### AI基础设施建设:  
+- 训练平台的相关开发工作，包括训练任务管理，GPU集群资源管理，WebIDE等模块的需求开发。 
+- 研究开源方法用于提高模型训练效率，包括相关训练框架调研，Alluxio，WebIDE，GPU资源利用率相关指标，智能化运维等。 
+##### 奖项:
+- 荣获公司“年度新锐”喝“持续改进奖”称号，以表彰在世界模型算法开发中的卓越贡献。
