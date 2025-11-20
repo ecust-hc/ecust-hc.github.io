@@ -1,4 +1,4 @@
-[[XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
 我目前担任 **国金证券人工智能实验室 AI 算法工程师**，专注于通用人工智能能力建设与前沿技术探索，重点推进大模型、智能知识管理等技术在证券行业的深度落地与业务赋能。  
 
@@ -19,7 +19,7 @@
 **南京工业大学**｜本科｜2017年9月 – 2021年6月  
 - GPA: 3.32 / 4.00
 
-#### 🔬 研究方向  
-- 人工智能辅助药物分子设计  
-- 世界模型（World Models）与具身智能  
+#### 🔬 研究方向
 - 大模型与 AI 技术在证券行业的应用（智能投研、合规风控、知识管理等）
+- 世界模型（World Models）在自动驾驶与仿真中的应用 
+- 人工智能辅助药物分子设计 
